@@ -64,7 +64,11 @@ QA é o controle de qualidade do software. Enquanto os desenvolvedores criam o s
 **🎯 Objetivo:** validar se a função consegue identificar corretamente palíndromos
 
 ## 6. conclusão
-
+## O que você aprendeu de mais importante?
 Aprendi e descobri que testar vai além de encontrar erros,  é garantir que o software, aplicações, sites, funcione corretamente desde o início. O mais importante foi perceber como testes bem planejados evitam problemas e economizam tempo e deixam os Leads felizes hahah. 
+
+## Como você enxerga a área de QA no seu futuro profissional?
 Eu enxergo QA futuramente como uma oportunidade, pois se eu seguir posso replicar meus conhecimentos aprendidos nas aulas.
+
+## Qual ferramenta ou tema mais chamou sua atenção e por quê?
 Uma ferramenta que chamou atenção foi o GitHub, por eu nunca ter interrese antes, mas ao utilizar para fazer esse repositorio, comecei a achar bem legal.
