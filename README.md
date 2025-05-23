@@ -46,7 +46,7 @@ QA é o controle de qualidade do software. Enquanto os desenvolvedores criam o s
 
 ## 5. ✅ Testes Entregues
 
-### Teste 01.py - Verificação de Soma
+### Teste 01.py - Verificação de Soma(Números positivos e negativos)
 **📌 Arquivo: colab** (https://colab.research.google.com/drive/1ITRKlWEbRn8zHHUycOMIVofrK8MfnZ9S#scrollTo=ksKkWGK0gGwU)
 **🔧 Biblioteca:** Python padrão  
 **🎯 Objetivo:** Validar função básica de soma  
